@@ -92,9 +92,11 @@ All devices were able to communicate successfully through the router.
 ## Files Included
 
 * SmallOfficeNetwork.pkt
-* topology.png
+* topology2.png
 * ping-test.png
 * README.md
+* modes.png
+* access verification.png
 
 ---
 
